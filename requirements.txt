@@ -1,4 +1,6 @@
-diffusers==0.3.0
+torch==1.13.1
+xformers==0.0.16
+diffusers==0.10.0
 transformers
 ftfy
 opencv-python
